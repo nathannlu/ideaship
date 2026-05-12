@@ -3,7 +3,7 @@ An AI website generator project I worked on in early 2025. Basically a Loveable/
 
 https://github.com/user-attachments/assets/daff7530-8fb3-4f1b-bab4-a8a2ae8f4cfa
 
-Live version deployed on [https://ideaship.io/](https://ideaship.io/)
+Live version deployed [here](https://ideaship-git-main-nathannlus-projects.vercel.app/)
 
 ## Features
 - Generate frontend applications with no code
